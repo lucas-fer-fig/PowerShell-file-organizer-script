@@ -1,2 +1,2 @@
 # PowerShell-Script-organizador-de-arquivos
-Um script simples, feito para rodar no PowerShell e que organiza os seus arquivos em um diretório. 
+A simple script, made to run on PowerShell and that organizes your files in a directory.
