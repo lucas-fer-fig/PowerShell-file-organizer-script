@@ -15,3 +15,18 @@
 ## Overview 
 
 This script is usefull when you have a folder that is a mess and you want to organize it. The script organizes your files by extension type in subfolders with the the same name as the extension. 
+
+## Prerequisites
+
+You need to have [PowerShell](https://docs.microsoft.com/pt-br/powershell/scripting/install/installing-powershell?view=powershell-7.1) intaled on your machine.
+
+## How to use
+
+First, open PowerShell prompt. Than, type 
+
+```powershell
+  ./file-organizer.ps1
+```
+## Technologies
+
+- [PowerShell](https://docs.microsoft.com/pt-br/powershell/scripting/overview?view=powershell-7.1)
