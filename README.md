@@ -15,7 +15,7 @@
 <p align="center">
  <a href="#Overview">Overview</a> •
  <a href="#Prerequisites">Prerequisites</a> • 
- <a href="#How_to_use">How to use</a> • 
+ <a href="#How%20to%20use">How to use</a> • 
  <a href="#Technologies">Technologies</a> • 
 </p>
 
