@@ -22,7 +22,7 @@ You need to have [PowerShell](https://docs.microsoft.com/pt-br/powershell/script
 
 ## How to use
 
-First, open PowerShell prompt. Than, type 
+First open PowerShell prompt, than type 
 
 ```powershell
 ./file-organizer.ps1
