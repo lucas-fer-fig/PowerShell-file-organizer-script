@@ -12,6 +12,13 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/lucas-fer-fig/PowerShell-file-organizer-script?color=%230037ea">
 </p>
 
+<p align="center">
+ <a href="#Overview">Overview</a> •
+ <a href="#Prerequisites">Prerequisites</a> • 
+ <a href="#How to use">How to use</a> • 
+ <a href="#Technologies">Technologies</a> • 
+</p>
+
 ## Overview 
 
 This script is usefull when you have a folder that is a mess and you want to organize it. The script organizes your files by extension type in subfolders with the the same name as the extension. 
