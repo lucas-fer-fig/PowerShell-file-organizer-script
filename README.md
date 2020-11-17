@@ -25,7 +25,7 @@ You need to have [PowerShell](https://docs.microsoft.com/pt-br/powershell/script
 First, open PowerShell prompt. Than, type 
 
 ```powershell
-  ./file-organizer.ps1
+./file-organizer.ps1
 ```
 ## Technologies
 
