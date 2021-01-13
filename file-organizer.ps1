@@ -1,10 +1,4 @@
-#### SFOS ####
-#
-### Simple files organizer Script ###
-#
-## Change the work diretory to the desktop ##
-##Set-Location -Path C:\Users\lucas\Desktop\ 
-################################################################################
+###########################  File organizer Script  ####################################
 
 ## Function that get all file extensions in the directory ##
 function Get-FileExtension {
